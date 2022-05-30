@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e344dd88.css",
+    "main.js": "/static/js/main.2cabb7ef.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/avtar.png": "/static/media/avtar.6cc3e2ed31d247986a30.png",
+    "index.html": "/index.html",
+    "main.e344dd88.css.map": "/static/css/main.e344dd88.css.map",
+    "main.2cabb7ef.js.map": "/static/js/main.2cabb7ef.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e344dd88.css",
+    "static/js/main.2cabb7ef.js"
+  ]
+}
